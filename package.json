@@ -1,0 +1,16 @@
+{
+  "name": "birnary_search_package",
+  "version": "1.0.1",
+  "description": "this is my new package on binary search",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binarysearch",
+    "simpleImplementation"
+  ],
+  "author": "Deepa",
+  "license": "ISC"
+}
